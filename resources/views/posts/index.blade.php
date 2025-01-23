@@ -13,7 +13,7 @@
                 <th>Bus Name</th>
                 <th>Starting Point</th>
                 <th>End point</th>
-                <th>Cost</th>
+                <th>Price</th>
             </tr>
         </thead>
         <tbody>
